@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11florin
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, SQL.
+- 👀 I’m interested in sofware developer
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me albuflorin929@yahoo.co.uk
 - 😄 Pronouns: ...
